@@ -10,4 +10,4 @@
 
 3. Compléter les phrases suivantes :
    a) La somme de 9 et 7 est 16
-   b) Le produit de 5 et 8 est 
+   b) Le produit de 5 et 8 est 40
