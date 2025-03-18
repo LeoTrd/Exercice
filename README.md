@@ -1,6 +1,6 @@
 1. Calculer les expressions suivantes :
-   a) 12 + 8 = 
-   b) 25 - 13 = 
+   a) 12 + 8 = 20 
+   b) 25 - 13 = 12
    c) 7 × 6 = 
    d) 48 ÷ 8 =
 
