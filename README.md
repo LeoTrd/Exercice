@@ -9,5 +9,5 @@
    b) Un livre coûte 15 €. Combien coûtent 3 livres ? 45€
 
 3. Compléter les phrases suivantes :
-   a) La somme de 9 et 7 est 
-   b) Le produit de 5 et 8 est 
+   a) La somme de 9 et 7 est 16
+   b) Le produit de 5 et 8 est 40
